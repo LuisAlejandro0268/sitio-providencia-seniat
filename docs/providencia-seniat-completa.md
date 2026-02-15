@@ -1,4 +1,5 @@
 ---
+id: providencia-seniat-completa
 sidebar_position: 1
 title: Providencia Administrativa Completa - SNAT/2024/000121
 ---
