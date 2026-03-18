@@ -20,10 +20,10 @@ const config = {
   },
 
 // Set the production url of your site here
-url: 'https://luisalejandro0268.github.io', // Tu nombre de usuario
+url: 'https://sitio-providencia-seniat.vercel.app', // Tu nombre de usuario
 // Set the /<baseUrl>/ pathname under which your site is served
 // For GitHub pages deployment, it is often '/<projectName>/'
-baseUrl: '/sitio-providencia-seniat/', // EL NOMBRE DE TU REPOSITORIO
+baseUrl: '/', // EL NOMBRE DE TU REPOSITORIO
 // GitHub pages deployment config.
 // If you aren't using GitHub pages, you don't need these.
 organizationName: 'LuisAlejandro0268', // Tu nombre de usuario
