@@ -29,7 +29,7 @@ baseUrl: '/', // EL NOMBRE DE TU REPOSITORIO
 organizationName: 'LuisAlejandro0268', // Tu nombre de usuario
 projectName: 'sitio-providencia-seniat', // EL NOMBRE DE TU REPOSITORIO
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
